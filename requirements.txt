@@ -1,0 +1,6 @@
+langchain[all]
+openai
+streamlit
+python-dotenv
+pydantic==1.10.9
+gpt4all

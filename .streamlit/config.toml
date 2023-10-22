@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#FFC947"  # 金色，象征着优雅和高贵，与深色背景形成强烈对比。
+backgroundColor="#2C3E50"  # 深蓝色背景，宁静而神秘。
+secondaryBackgroundColor="#34495E"  # 一个稍微不同的深色，为设计增加层次感。
+textColor="#ECF0F1"  # 浅色文本在深色背景上更易读。
+font="Press Start 2P"  # 衬线字体带有传统和优雅的感觉，符合日式设计的主题。
